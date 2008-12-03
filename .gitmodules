@@ -4,3 +4,6 @@
 [submodule "Bundles/Rails.tmbundle"]
 	path = Bundles/Rails.tmbundle
 	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "Bundles/rSpec.tmbundle"]
+	path = Bundles/rSpec.tmbundle
+	url = git://github.com/dchelimsky/rspec-tmbundle.git
