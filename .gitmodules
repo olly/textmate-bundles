@@ -1,3 +1,6 @@
 [submodule "Bundles/Cucumber.tmbundle"]
 	path = Bundles/Cucumber.tmbundle
 	url = git://github.com/bmabey/cucumber-tmbundle.git
+[submodule "Bundles/Rails.tmbundle"]
+	path = Bundles/Rails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
