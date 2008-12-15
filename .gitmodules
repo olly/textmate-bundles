@@ -10,3 +10,6 @@
 [submodule "Bundles/Ruby.tmbundle"]
 	path = Bundles/Ruby.tmbundle
 	url = git://github.com/drnic/ruby-tmbundle.git
+[submodule "Bundles/Git.tmbundle"]
+	path = Bundles/Git.tmbundle
+	url = git://github.com/timcharper/git-tmbundle.git
