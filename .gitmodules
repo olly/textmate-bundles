@@ -13,3 +13,6 @@
 [submodule "Bundles/Git.tmbundle"]
 	path = Bundles/Git.tmbundle
 	url = git://github.com/timcharper/git-tmbundle.git
+[submodule "Bundles/Copy as RTF.tmbundle"]
+	path = Bundles/Copy as RTF.tmbundle
+	url = git://github.com/drnic/copy-as-rtf-tmbundle.git
