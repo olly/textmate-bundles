@@ -16,3 +16,6 @@
 [submodule "Bundles/Copy as RTF.tmbundle"]
 	path = Bundles/Copy as RTF.tmbundle
 	url = git://github.com/drnic/copy-as-rtf-tmbundle.git
+[submodule "Bundles/Factory Girl.tmbundle"]
+	path = Bundles/Factory Girl.tmbundle
+	url = git://github.com/olly/factory-girl-tmbundle.git
