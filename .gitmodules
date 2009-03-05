@@ -19,3 +19,6 @@
 [submodule "Bundles/Factory Girl.tmbundle"]
 	path = Bundles/Factory Girl.tmbundle
 	url = git://github.com/olly/factory-girl-tmbundle.git
+[submodule "Bundles/Seperators.tmbundle"]
+	path = Bundles/Seperators.tmbundle
+	url = git://github.com/olly/seperators-tmbundle.git
