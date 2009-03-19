@@ -440,6 +440,19 @@
 				<string>#FF6600</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: Code</string>
+			<key>scope</key>
+			<string>markup.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#578BB3</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>4B7A9AA6-C472-4460-BA48-199E2624956B</string>
