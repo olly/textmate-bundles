@@ -25,3 +25,6 @@
 [submodule "Bundles/screw-unit.tmbundle"]
 	path = Bundles/screw-unit.tmbundle
 	url = git://github.com/coreyti/screw-unit-tmbundle.git
+[submodule "Bundles/HTML5.tmbundle"]
+	path = Bundles/HTML5.tmbundle
+	url = http://github.com/johnmuhl/html5.tmbundle.git
