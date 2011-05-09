@@ -25,3 +25,6 @@
 [submodule "Bundles/HTML5.tmbundle"]
 	path = Bundles/HTML5.tmbundle
 	url = http://github.com/johnmuhl/html5.tmbundle.git
+[submodule "Bundles/RSpec.tmbundle"]
+	path = Bundles/RSpec.tmbundle
+	url = git://github.com/rspec/rspec-tmbundle.git
